@@ -39,3 +39,4 @@ VALUES (N'20250224013411_InitialCreate', N'9.0.2');
 COMMIT;
 GO
 
+workstation id=DB-DS-ANDREYNARDY.mssql.somee.com;packet size=4096;user id=AndreyDatasBasesse;pwd=12345678;data source=DB-DS-ANDREYNARDY.mssql.somee.com;persist security info=False;initial catalog=DB-DS-ANDREYNARDY;TrustServerCertificate=True
